@@ -8,4 +8,4 @@
 
 ### Ao disponibilizar este repositório, nosso objetivo é promover a colaboração e o compartilhamento de boas práticas no processo de ETL, facilitando a integração e o tratamento de dados de maneira eficiente e segura.
 
-### Fique à vontade para explorar, contribuir e adaptar esses scripts para atender às suas necessidades individuais ou de projeto. Esperamos que este repositório seja uma fonte valiosa de ferramentas e referências para aprimorar seus processos de ETL.
+### Fique à vontade para explorar, contribuir e adaptar esses scripts para atender às suas necessidades individuais ou de projeto. Espero que este repositório seja uma fonte valiosa de ferramentas e referências para aprimorar seus processos de ETL.
